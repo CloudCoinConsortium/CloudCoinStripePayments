@@ -1,13 +1,13 @@
 <?php
 include_once 'config.php';
 /**
-CLOUDCOIN CONSORITIUM
-stripe_service.php
+*CLOUDCOIN CONSORITIUM
+*stripe_service.php
  *	Charge a Customer Card Via Stripe
- By Sean H Worthington
- 3/12/2017
- Open Source. Free of charge. MIT Licence
- Provided as is with no garantees 
+ *By Sean H Worthington
+ *3/12/2017
+ *Open Source. Free of charge. MIT Licence
+ *Provided as is with no garantees 
  */
 //Disable HTTP Cache
 header('Cache-Control: no-cache, must-revalidate');
